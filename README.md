@@ -18,7 +18,7 @@ The objective of this project is to develop a robust application that can accura
 
 ## Dataset
 
-The Rice Leaf Diseases Detection dataset from kaggle is used for this project, which contains a total of 3829 images, with each class containing approximately 600-plus images. The dataset includes the following disease classes: Bacterial Leaf Blight, Brown Spot, Healthy Rice Leaf, Leaf Blast, Leaf scald, and Sheath Blight.The dataset is also available in this repository.
+The Rice Leaf Diseases Detection dataset from kaggle is used for this project, which contains a total of 3829 images, with each class containing approximately 600-plus images. The dataset includes the following disease classes: Bacterial Leaf Blight, Brown Spot, Healthy Rice Leaf, Leaf Blast, Leaf scald, and Sheath Blight.
 
 ## System Architecture
 
@@ -26,5 +26,9 @@ The Rice Leaf Diseases Detection dataset from kaggle is used for this project, w
 
 ## Codebase
 ## Android Application
+GDrive link for the folder:
+https://drive.google.com/drive/folders/15pePTF4mF0hbEoqAoVHPVa14mpBsFp7d?usp=drive_link 
+Requirements to run: Android Studio
+
 ## Project Report
 ## Final Presentation PPT
