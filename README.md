@@ -25,6 +25,13 @@ The Rice Leaf Diseases Detection dataset from kaggle is used for this project, w
 ![image](https://github.com/Anshul-AM/Sentinel_Harvest_Watcher/assets/150291680/9b130748-82ac-4a91-b927-89df1ecb421a)
 
 ## Codebase
+Includes two files:
+
+1. `PSO_CNN Best Hyperparameter search.ipynb`: Run this notebook first to perform a hyperparameter search using Particle Swarm Optimization (PSO) for the Convolutional Neural Network (CNN) model.
+
+2. `CNN_Best_Hyperparameters.ipynb`: After running the first notebook and obtaining the best hyperparameters, use this notebook to train the CNN model with the best hyperparameters.
+
+Ensure all dependencies are installed before running the notebooks.
 ## Android Application
 GDrive link for the folder:
 
