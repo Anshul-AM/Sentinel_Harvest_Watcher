@@ -37,7 +37,8 @@ Ensure all dependencies are installed before running the notebooks.
 ## Android Application
 GDrive link for the folder:
 
-https://drive.google.com/drive/folders/15pePTF4mF0hbEoqAoVHPVa14mpBsFp7d?usp=drive_link 
+https://drive.google.com/drive/folders/15pePTF4mF0hbEoqAoVHPVa14mpBsFp7d?usp=drive_link
+
 Requirements to run: Android Studio
 
 ## Project Report
