@@ -20,6 +20,8 @@ The objective of this project is to develop a robust application that can accura
 
 The Rice Leaf Diseases Detection dataset from kaggle is used for this project, which contains a total of 3829 images, with each class containing approximately 600-plus images. The dataset includes the following disease classes: Bacterial Leaf Blight, Brown Spot, Healthy Rice Leaf, Leaf Blast, Leaf scald, and Sheath Blight.
 
+GDrive: https://drive.google.com/drive/folders/1a3oINYy_pkXF1sQmBfMu9WLIiaR7wSAF?usp=sharing
+
 ## System Architecture
 
 ![image](https://github.com/Anshul-AM/Sentinel_Harvest_Watcher/assets/150291680/9b130748-82ac-4a91-b927-89df1ecb421a)
@@ -36,7 +38,6 @@ Ensure all dependencies are installed before running the notebooks.
 GDrive link for the folder:
 
 https://drive.google.com/drive/folders/15pePTF4mF0hbEoqAoVHPVa14mpBsFp7d?usp=drive_link 
-
 Requirements to run: Android Studio
 
 ## Project Report
