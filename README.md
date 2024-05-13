@@ -42,4 +42,12 @@ https://drive.google.com/drive/folders/15pePTF4mF0hbEoqAoVHPVa14mpBsFp7d?usp=dri
 Requirements to run: Android Studio
 
 ## Project Report
+Includes the Final Project Report(APA Format).
+
 ## Final Presentation PPT
+Includes the Final Presentation PPT.
+
+## Screenshots
+![image](https://github.com/Anshul-AM/Sentinel_Harvest_Watcher/assets/150291680/c6bc94b8-2af0-4b76-92d2-5de29c11be86) ![image](https://github.com/Anshul-AM/Sentinel_Harvest_Watcher/assets/150291680/07c92b89-cd43-4021-b0eb-00261af390b2)
+
+
