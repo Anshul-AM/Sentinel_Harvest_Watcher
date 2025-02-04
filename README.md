@@ -48,7 +48,8 @@ Includes the Final Project Report(APA Format).
 Includes the Final Presentation PPT.
 
 ## Final Presentation
-https://youtu.be/sQkNbpfYvX4?si=h4GfmO-j2kvCGOD4
+[![Watch the video](https://img.youtube.com/vi/sQkNbpfYvX4/maxresdefault.jpg)](https://youtu.be/sQkNbpfYvX4)  
+🔗 **[Click here to watch the demo](https://youtu.be/sQkNbpfYvX4)**  
 
 ## Screenshots
 ![image](https://github.com/Anshul-AM/Sentinel_Harvest_Watcher/assets/150291680/c6bc94b8-2af0-4b76-92d2-5de29c11be86)                                                                        ![image](https://github.com/Anshul-AM/Sentinel_Harvest_Watcher/assets/150291680/07c92b89-cd43-4021-b0eb-00261af390b2)
